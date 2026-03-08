@@ -1,6 +1,6 @@
 ## Hi, I’m David
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damont&show_icons=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damont&show_icons=true&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damont&theme=default)
 
