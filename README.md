@@ -1,9 +1,5 @@
 ## Hi, I’m David
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=damont&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damont&theme=default)
-
 ### What I’m Working On
 
 I’m building personal tools that make my life easier — and more importantly, that work well with AI agents. Recent projects include my own calendar and task app designed for easy agent access.
