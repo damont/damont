@@ -3,7 +3,8 @@
 ### What I’m Working On
 
 I’m building personal tools that make my life easier — and more importantly, that work well with AI agents to make my life even easier than easier. Recent projects include my own calendar and task app that OpenClaw works with.
-- [Track](https://github.com/damont/track)
+- [Track](https://github.com/damont/track) — a full-stack task and notes app
+- [Calendar App](https://github.com/damont/calendarapp) — family weekend planning with sports schedules and configurable child groups
 
 I’m also developing app templates for spinning up projects quickly with simple auth, agent-friendly integration, solid backend data models, and mediocre UIs. One pattern I’m excited about: giving users a token that authorizes them directly, then exposing API docs so agents can figure out how to interact with the tools on their own — no MCP needed. See an example at [Track API docs](https://track.rabidflamingos.com/agent) where I expose the FastAPI openapi docs.
 
