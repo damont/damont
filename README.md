@@ -16,6 +16,8 @@ Recent projects include my own calendar and task app that OpenClaw works with:
 |---------|-------------|
 | [Track](https://github.com/damont/track) | A full-stack task and notes app |
 | [Calendar App](https://github.com/damont/calendarapp) | Family weekend planning with sports schedules and configurable child groups |
+| [Golden Incubator](https://github.com/damont/golden-incubator) | AI-powered collaborative requirements gathering — chat + live doc, split-screen |
+| [Daily Paper](https://github.com/damont/dailypaper) | Personal newspaper app with old-timey aesthetic, powered by AI agents |
 
 I'm also developing app templates for spinning up projects quickly with simple auth, agent-friendly integration, solid backend data models, and mediocre UIs - [See my skill for building quick container apps here](https://github.com/damont/buildnew).
 
